@@ -1,0 +1,41 @@
+contributor,bothunter_type,user_type,bimbas_type,confidence,acc_type
+DaniGlez,Human,Human,Human,0.907,Human
+JosephBARBIERDARNAL,Human,Human,Human,0.935,Human
+Peter-Hogg,Human,Human,Bot,0.731,Needs Verification
+SunyongKwon,Human,Human,Bot,0.867,Needs Verification
+adrinjalali,Human,Human,Human,0.648,Human
+araujoms,Human,Human,Human,0.922,Human
+bgruening,Human,Human,Human,0.676,Human
+chainsawriot,Human,Human,Human,0.727,Human
+dask-bot,Bot,Human,Bot,0.265,Bot
+davidbrochart,Human,Human,Human,0.882,Human
+ericphanson,Human,Human,Human,0.871,Human
+github-actions[bot],Bot,Bot,Bot,0.145,Bot Actor
+github-advanced-security[bot],Bot,Bot,Bot,0.703,Bot Actor
+gnikit,Human,Human,Human,0.941,Human
+gxydevbot,Human,Human,Bot,0.793,Needs Verification
+hackmd-hub[bot],Bot,Bot,Bot,0.751,Bot Actor
+ilayn,Human,Human,Human,0.682,Human
+jessegrabowski,Human,Human,Human,0.949,Human
+juanis2112,Human,Human,Human,0.723,Human
+kratman,Human,Human,Human,0.568,Human
+kwrobot,Human,Human,Bot,0.728,Needs Verification
+lumberbot-app[bot],Bot,Bot,Bot,0.912,Bot Actor
+m-albert,Human,Human,Human,0.932,Human
+mbauman,Human,Human,Human,0.904,Human
+mirror-dump,Human,Human,Bot,0.786,Needs Verification
+mrclary,Human,Human,Human,0.904,Human
+napari-bot,Bot,Human,Bot,0.564,Bot
+nsoranzo,Human,Human,Human,0.704,Human
+pep8speaks,Bot,Human,Bot,0.907,Bot
+petrasovaa,Human,Human,Human,0.864,Human
+review-notebook-app[bot],Bot,Bot,Bot,0.92,Bot Actor
+ricardoV94,Human,Human,Human,0.751,Human
+rodoulak,Bot,Human,Bot,0.742,Bot
+scikit-learn-bot,Bot,Human,Bot,0.714,Bot
+sebastian-luna-valero,Human,Human,Human,0.841,Human
+tarleb,Human,Human,Human,0.926,Human
+transifex-integration[bot],Bot,Bot,Bot,0.535,Bot Actor
+vchuravy,Human,Human,Human,0.882,Human
+welcome[bot],Bot,Bot,Bot,0.727,Bot Actor
+zachary-foster,Human,Human,Human,0.833,Human

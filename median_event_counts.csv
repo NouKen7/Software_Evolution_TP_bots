@@ -1,0 +1,9 @@
+event_group,median,acc_type
+PR,0.0,Bot_BotActor
+PR,16.0,Human
+commit,0.0,Bot_BotActor
+commit,4.0,Human
+issue,10.0,Bot_BotActor
+issue,30.0,Human
+repo,0.0,Bot_BotActor
+repo,4.0,Human
